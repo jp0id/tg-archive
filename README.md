@@ -7,7 +7,7 @@
 **IMPORTANT:** I'm no longer actively maintaining or developing this tool. Can review and merge PRs (as long as they're not massive and are clearly documented).
 
 ## Preview
-The [生活点滴](https://jplife.fun) Telegram group archive.
+The [竹新社新闻](https://8void.top) Telegram group archive.
 
 
 ## How it works
